@@ -21,43 +21,31 @@ I enjoy working with data to clean, analyze, visualize, and transform it into me
 - 📗 Strong interest in Excel-based reporting and MIS
 - 💼 Open to opportunities and relocation
 
- Technical Skills
+🛠️ Technical Skills
 
-📊 Data Analytics & BI
-- Power BI
-- Microsoft Excel
-- Google Sheets
-- Data Visualization
-- Dashboard Development
-- KPI Reporting
-- Business Intelligence
-- MIS Reporting
+📊 Data Analytics & Business Intelligence
 
-🗄️ Databases & SQL
-- SQL
-- MySQL
-- Joins
-- Aggregations
-- Window Functions
-- CTEs
-- Data Analysis
+![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
 
-🐍 Python
-- Python
-- Pandas
-- NumPy
-- Exploratory Data Analysis
-- Data Cleaning
-- Data Transformation
+🗄️ SQL & Databases
 
-🧹 Data Preparation
-- Data Cleaning
-- Data Validation
-- Data Transformation
-- Duplicate Detection
-- Missing Value Handling
-- Data Quality Checks
-- Exploratory Data Analysis
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=databricks&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+🐍 Python & Data Analysis
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+🧹 Data & Reporting
+
+![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-Data%20Quality-blue?style=for-the-badge)
+![Data Validation](https://img.shields.io/badge/Data%20Validation-Quality%20Checks-blue?style=for-the-badge)
+![Data Visualization](https://img.shields.io/badge/Data%20Visualization-Analytics-orange?style=for-the-badge)
+![Business Intelligence](https://img.shields.io/badge/Business%20Intelligence-BI-green?style=for-the-badge)
 
 📊 Featured Project
 
