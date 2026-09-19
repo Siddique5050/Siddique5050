@@ -90,11 +90,11 @@ I am continuously building projects focused on:
 - Advanced Python Programming – Pantech eLearning
 - SQL Certification – Great Learning
 
-🎯 Career Interests
+ 🎯 Career Interests
 
 I'm interested in opportunities involving:
 
-Data Analytics • Business Analysis • MIS Reporting • Business Intelligence • Dashboard Development • KPI Reporting • Data Visualization • Reporting & Analytics
+**Data Analytics • Business Analysis • MIS Reporting • Business Intelligence • Dashboard Development • KPI Reporting**
 
 🤝 Connect With Me
 
