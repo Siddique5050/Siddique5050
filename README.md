@@ -51,25 +51,38 @@ I enjoy working with data to clean, analyze, visualize, and transform it into me
 
 🏥 Healthcare Billing Data Validation & Analytics
 
-Tools: Excel | Power BI | Data Validation | Data Cleaning
+**Excel | Power BI | Data Cleaning | Data Validation | DAX**
 
-A healthcare billing analytics project focused on cleaning, validating, and analyzing synthetic healthcare billing data.
+A complete data analytics project focused on cleaning, validating, and analyzing synthetic healthcare billing data.
 
-Key work:
-- Cleaned and validated **15,100 records**
-- Identified and removed **100 redundant duplicate records**
+ 🔍 Key Work
+
+- Cleaned and validated **15,100 healthcare billing records**
+- Removed **100 redundant duplicate records**
 - Prepared **15,000 final records** for analysis
 - Performed missing-value and data-quality checks
-- Validated ages, claim amounts, billing dates, and financial values
+- Validated patient ages, claim amounts, billing dates, and financial values
 - Standardized inconsistent categorical data
-- Built an interactive Power BI dashboard
+- Built an interactive **Power BI dashboard**
 - Created KPI cards and department-level analysis
 - Analyzed payment status, insurance coverage, patient payments, and claim trends
 
-🔗 **[View Project on GitHub](https://github.com/Siddique5050/Healthcare-Billing-Data-Validation)**
+📊 Dashboard
 
----
+[![Healthcare Billing Dashboard](https://raw.githubusercontent.com/Siddique5050/Healthcare-Billing-Data-Validation/main/Screenshots/Dashboard.png)](https://github.com/Siddique5050/Healthcare-Billing-Data-Validation)
 
+🔗 **[View Full Project →](https://github.com/Siddique5050/Healthcare-Billing-Data-Validation)**
+
+🚧 More Projects Coming Soon
+
+I am continuously building projects focused on:
+
+- 📊 Data Analytics
+- 💼 Business Analysis
+- 📈 MIS Reporting
+- 🗄️ SQL & Database Analysis
+- 📊 Power BI Dashboards
+- 📗 Excel Automation & Reporting
 📚 Certifications
 
 - Deloitte Data Analytics Job Simulation – Forage
@@ -82,8 +95,6 @@ Key work:
 I'm interested in opportunities involving:
 
 Data Analytics • Business Analysis • MIS Reporting • Business Intelligence • Dashboard Development • KPI Reporting • Data Visualization • Reporting & Analytics
-
----
 
 🤝 Connect With Me
 
