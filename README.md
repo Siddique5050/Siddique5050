@@ -98,16 +98,18 @@ Data Analytics • Business Analysis • MIS Reporting • Business Intelligence
 
 🤝 Connect With Me
 
-📧 **Email:** siddiqueaquib126@gmail.com
+<p align="left">
+  <a href="https://linkedin.com/in/asiddique2209" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:siddiqueaquib126@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/Siddique5050" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
 
-🔗 **LinkedIn:** [linkedin.com/in/asiddique2209](https://linkedin.com/in/asiddique2209)
-
-💻 **GitHub:** [github.com/Siddique5050](https://github.com/Siddique5050)
-
-💼 Open to Work
-
-I'm currently open to opportunities in:
-
-Data Analyst | Business Analyst | MIS Analyst | Data Analytics
-
-📍 Open to relocation
+📍 **Location:** India  
+💼 **Status:** Open to Work  
+🚀 **Interested in:** Data Analyst | Business Analyst | MIS Analyst | Data Analytics
